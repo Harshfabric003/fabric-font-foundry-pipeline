@@ -1,0 +1,43 @@
+raw_font_name,vendor_foundry_field,style,file_format,notes
+Roboto-Bold-v2,,Bold,TTF,
+ROBOTO CONDENSD,Google,Condensed,OTF,possible typo in name
+Open Sans Italic,,Italic,TTF,
+OpenSans-Regular,Google LLC,Regular,TTF,
+Montserrat SemiBold,Julieta Ulanovsky,SemiBold,OTF,
+montserrat-black,,Black,TTF,lowercase raw name
+Lato Light v1.3,,Light,TTF,version suffix present
+Lato-Ligh,,Light,TTF,typo missing t
+Poppins Medium,Indian Type Foundry,Medium,OTF,
+POPPINS-MED,,Medium,TTF,abbreviated style
+Playfair Display Bold,Claus Eggers Sørensen,Bold,TTF,
+Playfair Disp Bold,,Bold,OTF,truncated name
+Merriweather Italic,Sorkin Type,Italic,TTF,
+Merriweather-It,,Italic,OTF,abbreviated style
+Nunito SemiBold,,SemiBold,TTF,
+Nunito Sans,,Regular,TTF,different family confusion
+Raleway Thin,Matt McInerney,Thin,OTF,
+Ralewat Thin,,Thin,TTF,typo in family name
+Oswald Regular,Vernon Adams,Regular,TTF,
+OSWALD-REG,,Regular,OTF,abbreviated style
+Source Sans Pro,Adobe,Regular,OTF,
+SourceSansPro-Reg,,Regular,TTF,no spaces
+Inter Bold,Rasmus Andersson,Bold,TTF,
+inter_bold_v3,,Bold,OTF,underscored raw name
+Work Sans Medium,Wei Huang,Medium,TTF,
+WorkSans-Med,,Medium,OTF,abbreviated
+Rubik Light,BBH Labs,Light,TTF,
+RUBIK-LT,,Light,OTF,abbreviated style
+Karla Regular,Jonathan Pierini,Regular,TTF,
+Karla Regualr,,Regular,TTF,typo in style
+Mukta Bold,Ek Type,Bold,TTF,
+Mukta-B,,Bold,OTF,abbreviated
+Barlow SemiCondensed,Jeremy Tribby,Regular,TTF,
+Barlow Semi Cond,,Regular,OTF,truncated variant name
+DM Sans Medium,Colophon Foundry,Medium,TTF,
+DMSans-Med,,Medium,OTF,no spaces
+Manrope Extrabold,Mikhail Sharanda,ExtraBold,TTF,
+Manrope-XBold,,ExtraBold,OTF,abbreviated
+Quicksand Bold,Andrew Paglinawan,Bold,TTF,
+Quiksand Bold,,Bold,TTF,typo missing c
+Unknown Vendor Font,,Regular,TTF,no match expected - test unresolved case
+XYZ Custom Display,,Bold,OTF,no match expected - test unresolved case
