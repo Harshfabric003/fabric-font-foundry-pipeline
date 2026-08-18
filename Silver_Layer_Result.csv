@@ -1,0 +1,43 @@
+raw_font_name,vendor_foundry_field,style,file_format,notes,cleaned_name,matched_family,matched_foundry,confidence_score,match_type
+Unknown Vendor Font,,Regular,TTF,no match expected - test unresolved case,unknown vendor font,,,51.42857142857142,unresolved
+XYZ Custom Display,,Bold,OTF,no match expected - test unresolved case,xyz custom display,,,57.826086956521735,unresolved
+Ralewat Thin,,Thin,TTF,typo in family name,ralewat,Raleway,Matt McInerney,85.71428571428572,medium_confidence
+Playfair Disp Bold,,Bold,OTF,truncated name,playfair disp,Playfair Display,Claus Eggers Sørensen,89.65517241379311,medium_confidence
+Lato-Ligh,,Light,TTF,typo missing t,lato ligh,Lato,Łukasz Dziedzic,90.0,high_confidence
+Nunito Sans,,Regular,TTF,different family confusion,nunito sans,Nunito,Vernon Adams,90.0,high_confidence
+Karla Regualr,,Regular,TTF,typo in style,karla regualr,Karla,Jonathan Pierini,90.0,high_confidence
+Barlow SemiCondensed,Jeremy Tribby,Regular,TTF,,barlow condensed,Barlow,Jeremy Tribby,90.0,high_confidence
+Manrope-XBold,,ExtraBold,OTF,abbreviated,manrope xbold,Manrope,Mikhail Sharanda,90.0,high_confidence
+DMSans-Med,,Medium,OTF,no spaces,dmsans,DM Sans,Colophon Foundry,92.3076923076923,high_confidence
+Quiksand Bold,,Bold,TTF,typo missing c,quiksand,Quicksand,Andrew Paglinawan,94.11764705882352,high_confidence
+ROBOTO CONDENSD,Google,Condensed,OTF,possible typo in name,roboto condensd,Roboto Condensed,Google,96.7741935483871,high_confidence
+Roboto-Bold-v2,,Bold,TTF,,roboto,Roboto,Google,100.0,high_confidence
+Open Sans Italic,,Italic,TTF,,open sans,Open Sans,Google,100.0,high_confidence
+OpenSans-Regular,Google LLC,Regular,TTF,,open sans,Open Sans,Google,100.0,high_confidence
+Montserrat SemiBold,Julieta Ulanovsky,SemiBold,OTF,,montserrat,Montserrat,Julieta Ulanovsky,100.0,high_confidence
+montserrat-black,,Black,TTF,lowercase raw name,montserrat,Montserrat,Julieta Ulanovsky,100.0,high_confidence
+Lato Light v1.3,,Light,TTF,version suffix present,lato,Lato,Łukasz Dziedzic,100.0,high_confidence
+Poppins Medium,Indian Type Foundry,Medium,OTF,,poppins,Poppins,Indian Type Foundry,100.0,high_confidence
+POPPINS-MED,,Medium,TTF,abbreviated style,poppins,Poppins,Indian Type Foundry,100.0,high_confidence
+Playfair Display Bold,Claus Eggers Sørensen,Bold,TTF,,playfair display,Playfair Display,Claus Eggers Sørensen,100.0,high_confidence
+Merriweather Italic,Sorkin Type,Italic,TTF,,merriweather,Merriweather,Sorkin Type,100.0,high_confidence
+Merriweather-It,,Italic,OTF,abbreviated style,merriweather,Merriweather,Sorkin Type,100.0,high_confidence
+Nunito SemiBold,,SemiBold,TTF,,nunito,Nunito,Vernon Adams,100.0,high_confidence
+Raleway Thin,Matt McInerney,Thin,OTF,,raleway,Raleway,Matt McInerney,100.0,high_confidence
+Oswald Regular,Vernon Adams,Regular,TTF,,oswald,Oswald,Vernon Adams,100.0,high_confidence
+OSWALD-REG,,Regular,OTF,abbreviated style,oswald,Oswald,Vernon Adams,100.0,high_confidence
+Source Sans Pro,Adobe,Regular,OTF,,source sans pro,Source Sans Pro,Adobe,100.0,high_confidence
+SourceSansPro-Reg,,Regular,TTF,no spaces,source sans pro,Source Sans Pro,Adobe,100.0,high_confidence
+Inter Bold,Rasmus Andersson,Bold,TTF,,inter,Inter,Rasmus Andersson,100.0,high_confidence
+inter_bold_v3,,Bold,OTF,underscored raw name,inter,Inter,Rasmus Andersson,100.0,high_confidence
+Work Sans Medium,Wei Huang,Medium,TTF,,work sans,Work Sans,Wei Huang,100.0,high_confidence
+WorkSans-Med,,Medium,OTF,abbreviated,work sans,Work Sans,Wei Huang,100.0,high_confidence
+Rubik Light,BBH Labs,Light,TTF,,rubik,Rubik,BBH Labs,100.0,high_confidence
+RUBIK-LT,,Light,OTF,abbreviated style,rubik,Rubik,BBH Labs,100.0,high_confidence
+Karla Regular,Jonathan Pierini,Regular,TTF,,karla,Karla,Jonathan Pierini,100.0,high_confidence
+Mukta Bold,Ek Type,Bold,TTF,,mukta,Mukta,Ek Type,100.0,high_confidence
+Mukta-B,,Bold,OTF,abbreviated,mukta,Mukta,Ek Type,100.0,high_confidence
+Barlow Semi Cond,,Regular,OTF,truncated variant name,barlow,Barlow,Jeremy Tribby,100.0,high_confidence
+DM Sans Medium,Colophon Foundry,Medium,TTF,,dm sans,DM Sans,Colophon Foundry,100.0,high_confidence
+Manrope Extrabold,Mikhail Sharanda,ExtraBold,TTF,,manrope,Manrope,Mikhail Sharanda,100.0,high_confidence
+Quicksand Bold,Andrew Paglinawan,Bold,TTF,,quicksand,Quicksand,Andrew Paglinawan,100.0,high_confidence
