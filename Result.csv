@@ -1,0 +1,43 @@
+raw_font_name,vendor_foundry_field,style,file_format,notes,cleaned_name,matched_family,matched_foundry,confidence_score,match_type
+Unknown Vendor Font,,Regular,TTF,no match expected - test unresolved case,unknown vendor font,,,51.42857142857142,unresolved
+XYZ Custom Display,,Bold,OTF,no match expected - test unresolved case,xyz custom display,,,54.0,unresolved
+DM Sans Medium,Colophon Foundry,Medium,TTF,,dm sans,,,60.00000000000001,unresolved
+DMSans-Med,,Medium,OTF,no spaces,dmsans,,,60.00000000000001,unresolved
+Lato-Ligh,,Light,TTF,typo missing t,lato ligh,,,67.5,unresolved
+Ralewat Thin,,Thin,TTF,typo in family name,ralewat,,,71.42857142857143,unresolved
+Karla Regualr,,Regular,TTF,typo in style,karla regualr,,,72.0,unresolved
+Lato Light v1.3,,Light,TTF,version suffix present,lato,Lato,Łukasz Dziedzic,75.0,medium_confidence
+Nunito Sans,,Regular,TTF,different family confusion,nunito sans,Nunito,Vernon Adams,75.00000000000001,medium_confidence
+Barlow SemiCondensed,Jeremy Tribby,Regular,TTF,,barlow condensed,Barlow,Jeremy Tribby,75.00000000000001,medium_confidence
+Playfair Disp Bold,,Bold,OTF,truncated name,playfair disp,Playfair Display,Claus Eggers Sørensen,75.86206896551724,medium_confidence
+Manrope-XBold,,ExtraBold,OTF,abbreviated,manrope xbold,Manrope,Mikhail Sharanda,77.14285714285715,medium_confidence
+Open Sans Italic,,Italic,TTF,,open sans,Open Sans,Google,77.77777777777779,medium_confidence
+OpenSans-Regular,Google LLC,Regular,TTF,,open sans,Open Sans,Google,77.77777777777779,medium_confidence
+Work Sans Medium,Wei Huang,Medium,TTF,,work sans,Work Sans,Wei Huang,77.77777777777779,medium_confidence
+WorkSans-Med,,Medium,OTF,abbreviated,work sans,Work Sans,Wei Huang,77.77777777777779,medium_confidence
+Source Sans Pro,Adobe,Regular,OTF,,source sans pro,Source Sans Pro,Adobe,80.0,medium_confidence
+SourceSansPro-Reg,,Regular,TTF,no spaces,source sans pro,Source Sans Pro,Adobe,80.0,medium_confidence
+Inter Bold,Rasmus Andersson,Bold,TTF,,inter,Inter,Rasmus Andersson,80.0,medium_confidence
+inter_bold_v3,,Bold,OTF,underscored raw name,inter,Inter,Rasmus Andersson,80.0,medium_confidence
+Rubik Light,BBH Labs,Light,TTF,,rubik,Rubik,BBH Labs,80.0,medium_confidence
+RUBIK-LT,,Light,OTF,abbreviated style,rubik,Rubik,BBH Labs,80.0,medium_confidence
+Karla Regular,Jonathan Pierini,Regular,TTF,,karla,Karla,Jonathan Pierini,80.0,medium_confidence
+Mukta Bold,Ek Type,Bold,TTF,,mukta,Mukta,Ek Type,80.0,medium_confidence
+Mukta-B,,Bold,OTF,abbreviated,mukta,Mukta,Ek Type,80.0,medium_confidence
+Quiksand Bold,,Bold,TTF,typo missing c,quiksand,Quicksand,Andrew Paglinawan,82.35294117647058,medium_confidence
+Roboto-Bold-v2,,Bold,TTF,,roboto,Roboto,Google,83.33333333333334,medium_confidence
+Nunito SemiBold,,SemiBold,TTF,,nunito,Nunito,Vernon Adams,83.33333333333334,medium_confidence
+Oswald Regular,Vernon Adams,Regular,TTF,,oswald,Oswald,Vernon Adams,83.33333333333334,medium_confidence
+OSWALD-REG,,Regular,OTF,abbreviated style,oswald,Oswald,Vernon Adams,83.33333333333334,medium_confidence
+Barlow Semi Cond,,Regular,OTF,truncated variant name,barlow,Barlow,Jeremy Tribby,83.33333333333334,medium_confidence
+ROBOTO CONDENSD,Google,Condensed,OTF,possible typo in name,roboto condensd,Roboto Condensed,Google,83.87096774193549,medium_confidence
+Poppins Medium,Indian Type Foundry,Medium,OTF,,poppins,Poppins,Indian Type Foundry,85.71428571428572,medium_confidence
+POPPINS-MED,,Medium,TTF,abbreviated style,poppins,Poppins,Indian Type Foundry,85.71428571428572,medium_confidence
+Raleway Thin,Matt McInerney,Thin,OTF,,raleway,Raleway,Matt McInerney,85.71428571428572,medium_confidence
+Manrope Extrabold,Mikhail Sharanda,ExtraBold,TTF,,manrope,Manrope,Mikhail Sharanda,85.71428571428572,medium_confidence
+Playfair Display Bold,Claus Eggers Sørensen,Bold,TTF,,playfair display,Playfair Display,Claus Eggers Sørensen,87.5,medium_confidence
+Quicksand Bold,Andrew Paglinawan,Bold,TTF,,quicksand,Quicksand,Andrew Paglinawan,88.88888888888889,medium_confidence
+Montserrat SemiBold,Julieta Ulanovsky,SemiBold,OTF,,montserrat,Montserrat,Julieta Ulanovsky,90.0,high_confidence
+montserrat-black,,Black,TTF,lowercase raw name,montserrat,Montserrat,Julieta Ulanovsky,90.0,high_confidence
+Merriweather Italic,Sorkin Type,Italic,TTF,,merriweather,Merriweather,Sorkin Type,91.66666666666666,high_confidence
+Merriweather-It,,Italic,OTF,abbreviated style,merriweather,Merriweather,Sorkin Type,91.66666666666666,high_confidence
