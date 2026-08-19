@@ -10,3 +10,4 @@ without error.
   (disabled by default in this portfolio project to avoid unnecessary compute usage)
 
 <img width="1302" height="924" alt="image" src="https://github.com/user-attachments/assets/1e62a223-f101-436e-bbf1-83654006e914" />
+<img width="884" height="833" alt="Screenshot 2026-08-19 at 14 03 54" src="https://github.com/user-attachments/assets/d1473182-b223-47b6-93a0-727bdc679c32" />
